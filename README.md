@@ -1,2 +1,2 @@
-# podora-homes
+# Nova Capsule Homes
 Start-up 
